@@ -67,8 +67,8 @@
 
 ### 2. พัฒนา To-do List App
 
-1. เปิดโปรเจคใน Visual Studio Code we
-3. แก้ไขไฟล์ `src/App.js`:
+1. เปิดโปรเจคใน Visual Studio Code 
+2. แก้ไขไฟล์ `src/App.js`:
 
 ```jsx
 import React, { useState } from 'react';
